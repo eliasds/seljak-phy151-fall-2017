@@ -5,4 +5,4 @@ mkdocs gh-deploy
 
 Look for files in docs/ directory
 
-https://bccp.github.io/seljak-computational-physics-2017
+https://bccp.github.io/seljak-phy151-fall-2017
