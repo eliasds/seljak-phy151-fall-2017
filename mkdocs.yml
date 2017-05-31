@@ -1,6 +1,8 @@
 site_name: "Computational Physics: numerical methods, data science and statistics"
 theme: readthedocs
 #theme_dir: 'custom_theme'
+edit_uri: edit/master/docs/
+repo_url: https://github.com/bccp/seljak-computational-physics-2017
 extra:
   logo : img/banner.png
   logo_name : true
