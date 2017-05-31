@@ -1,5 +1,7 @@
-Computational Physics: numerical methods, data science and statistics
-=====================================================================
+![Banner](img/banner.png)
+
+Computational Physics - numerical methods, data science and statistics
+======================================================================
 
 The purpose of the course is to get aquainted with modern computational methods 
 used in physics, including numerical analysis methods, data science and statistics. 
