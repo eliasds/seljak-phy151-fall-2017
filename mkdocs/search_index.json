@@ -37,12 +37,12 @@
         },
         {
             "location": "/homeworks/",
-            "text": "Homeworks\n\n\nHome works assignments will be posted here\n\n\nNo final exam, but a final project for graduate students",
+            "text": "Homeworks\n\n\nHome works assignments will be posted here..\n\n\n\n\nDate, Link to datahub repo.",
             "title": "Homeworks"
         },
         {
             "location": "/homeworks/#homeworks",
-            "text": "Home works assignments will be posted here  No final exam, but a final project for graduate students",
+            "text": "Home works assignments will be posted here..   Date, Link to datahub repo.",
             "title": "Homeworks"
         }
     ]
