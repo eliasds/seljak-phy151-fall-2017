@@ -6,3 +6,9 @@ repo_url: https://github.com/bccp/seljak-phy151-fall-2017
 extra:
   logo : img/banner.png
   logo_name : true
+
+extra_javascript: 
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+    - mdx_math

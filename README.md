@@ -1,3 +1,4 @@
+pip install python-markdown-math
 pip install mkdocs
 
 mkdocs build
