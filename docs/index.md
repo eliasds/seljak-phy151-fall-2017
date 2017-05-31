@@ -119,13 +119,13 @@ routines) from python (see <http://numerical.recipes> for details).
 Homeworks and Final Exam
 ------------------------
 
-weekly homeworks, Jupyter notebook in Python submissions.
+Weekly homeworks, Jupyter notebook in Python submissions.
 
 Throughout the course, students will complete and electronically submit one homework assignment (code) per week.
 This code will be run on test cases to check if it produces appropriate results.
 The GSI will also examine code for proper commenting and style.
 If the code does not produce appropriate results from the test cases, GSIs will also check for errors to award partial credit for students’ efforts.
 These manual examinations for errors may be more or less thorough depending on enrollment and availability of the GSI.
-There will be a take home final exam covering the last few weeks of lectures, following the same structure as the homeworks.
+There will be a final project/take home final exam covering a wider range of topics, following the same structure as the homeworks.
 
-Take home exam may differ between undergraduate and graduate students.
+Take home/final project exam may differ between undergraduate and graduate students.
