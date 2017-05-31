@@ -1,5 +1,3 @@
-![Banner](img/banner.png)
-
 Computational Physics - numerical methods, data science and statistics
 ======================================================================
 
