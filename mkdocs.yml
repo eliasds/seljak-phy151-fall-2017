@@ -1,4 +1,4 @@
-site_name: "Computational Physics: numerical methods, data science and statistics"
+site_name: "Numerical methods, data science and statistics for physical sciences"
 theme: readthedocs
 theme_dir: 'readthedocs_custom'
 edit_uri: edit/master/docs/
