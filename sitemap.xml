@@ -17,4 +17,36 @@
     </url>
     
 
+    
+    <url>
+     <loc>/homeworks/</loc>
+     <lastmod>2017-05-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/literature/</loc>
+     <lastmod>2017-05-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/software/</loc>
+     <lastmod>2017-05-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/syllabus/</loc>
+     <lastmod>2017-05-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
 </urlset>
