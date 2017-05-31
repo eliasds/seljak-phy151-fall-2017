@@ -44,6 +44,11 @@
             "location": "/homeworks/#homeworks",
             "text": "Home works assignments will be posted here..   Date, Link to datahub repo.",
             "title": "Homeworks"
+        },
+        {
+            "location": "/math/",
+            "text": "Example adding math to pages.\n\n\nWhen \na \\ne 0\n, there are two solutions to \nax^2 + bx + c = 0\n and they are\n\nx = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}.\n\n\n\n\n\n\n\n c = 193",
+            "title": "Math"
         }
     ]
 }
