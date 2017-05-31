@@ -1,2 +1,3 @@
 site_name: "Computational Physics: numerical methods, data science and statistics"
-theme: readthedocs
+theme: null
+theme_dir: 'custom_theme'
