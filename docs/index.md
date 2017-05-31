@@ -49,25 +49,34 @@ other backpropagation neural network algorithms
 Literature
 ----------
 
-Computational Physics by Mark Newman 
+Text books
 
-Numerical Recipes, by Press. W. etal.  http://numerical.recipes
+- Computational Physics by Mark Newman
 
-An Introduction to Statistical Learning, by James G. etal, 
-http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
+- [Numerical Recipes](http://numerical.recipes), by Press. W. etal
 
-A Survey of Computational Physics by Landau, R., Paez, M-J., Bordeianu, C.
-free downlaod at http://www.compadre.org/psrc/items/detail.cfm?ID=11578
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf), by James G. etal, 
 
-Other resources will be provided according to the needs (e.g.  https://arxiv.org/pdf/1505.02965.pdf ...)
+- [A Survey of Computational Physics](http://www.compadre.org/psrc/items/detail.cfm?ID=11578) by Landau, R., Paez, M-J., Bordeianu, C.
+
+Other resources will be provided according to the needs, e.g,
+
+- [Gaussian Process Reference](https://arxiv.org/pdf/1505.02965.pdf)
+
+- ...
 
 Software
 --------
 
-you are expected to use existing numerical analysis routines and not write your own. Many of these are already 
-implemented in python libraries (scipy, numpy...), or you can call Numerical Recipes C++ routines (as well as other) 
-from python. See http://numerical.recipes for details. Routines that go with Landau's book are at 
-http://www.science.oregonstate.edu/~landaur/Books/CPbook/Codes/PythonCodes/
+You are expected to use existing numerical analysis routines and not write your own.
+
+- Many of these are already implemented in python libraries (scipy, numpy...).
+
+- You can call Numerical Recipes C++ routines (as well as other) from python.
+  See <http://numerical.recipes> for details.
+
+- Routines that go with Landau's book are at
+<http://www.science.oregonstate.edu/~landaur/Books/CPbook/Codes/PythonCodes/>
 
 
 Prerequsites
