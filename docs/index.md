@@ -69,7 +69,8 @@ implemented in python libraries (scipy, numpy...), or you can call Numerical Rec
 from python. See http://numerical.recipes for details. Routines that go with Landau's book are at 
 http://www.science.oregonstate.edu/~landaur/Books/CPbook/Codes/PythonCodes/
 
-Prerequsites 
+
+Prerequsites
 ------------
 
 basic introduction to Python programming at the level of PHY77, or first 4 chapters of Newman's book 
